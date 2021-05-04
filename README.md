@@ -9,33 +9,33 @@
 
 
 
-### Frontend Application
+### [Frontend Application](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Android%20Application)
 
 * 김연혁 작업
 * 사용자가 사용할 어플리케이션.
 * 당시 안드로이드용 어플리케이션만 개발하였으며 미완성.
 * Android Studio, Java, XML 사용
 
-### Application Design
+### [Application Design](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Application%20Design)
 
 * 김현진 작업
 * Android Application을 위한 디자인
 * Xd 사용
 
-### Backend Server
+### [Backend Server](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Flask-Base%20Backend%20Server)
 
 * 김연혁 작업
 * 반하다 서비스를 위한 Restful 백엔드 서버.
 * 시간이 부족하여 버그도 많고 미완성.
 * Python, Flask, AWS, Nginx 사용
 
-### Database
+### [Database](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/MySQL%20Database%20SQL%20Generator)
 
 * 김연혁 작업
 * AWS EC2 Instance에 MySQL을 설치하여 사용
 * 시간이 없어 foreign keys나 index keys 등은 사용하지 않음
 
-### API Documentation
+### [API Documentation](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/API%20Documentation)
 
 * 김연혁 작업
 * Restful Backend를 위한 API Documentation.
