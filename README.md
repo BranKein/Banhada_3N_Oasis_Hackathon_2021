@@ -41,3 +41,5 @@
 * Restful Backend를 위한 API Documentation.
 * Python의 Sphinx를 사용하여 제작, RST 파일을 수정.
 
+![Oasis Hackathon](/images/oasis-hackathon.png)
+
