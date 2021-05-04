@@ -3,7 +3,7 @@
 ![Banhada Logo](/images/Banhada.png)
 
 * 2021년도 Oasis Hackathon에서 팀 3N으로 진행한 프로젝트
-* 광주과학기술원 김연혁(개발자), 전남대학교 김현진(디자이너), 전남대학교 이민수(기획자) 참여
+* 광주과학기술원 김연혁(개발자), 전남대학교 정현진(디자이너), 전남대학교 이민수(기획자) 참여
 
 기존의 당근마켓 서비스와 비슷한 서비스로, 적용 범위를 아파트 단위, 그리고 거래 물품을 신선식품과 배달식품으로 하여 이웃들과의 식품 거래 등을 활성화 하기 위한 서비스를 개발하였다.
 
@@ -18,7 +18,7 @@
 
 ### [Application Design](https://github.com/BranKein/Banhada_3N_Oasis_Hackathon_2021/tree/main/Application%20Design)
 
-* 김현진 작업
+* 정현진 작업
 * Android Application을 위한 디자인
 * Xd 사용
 
